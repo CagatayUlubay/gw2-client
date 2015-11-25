@@ -1,0 +1,12 @@
+{
+    "name": "devmonks/gw2",
+    "description": "Guildwars 2 Client for the GW2 API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cagatay Ulubay",
+            "email": "cagatay.ulubay@check24.de"
+        }
+    ],
+    "require": {}
+}
